@@ -1,4 +1,4 @@
-Anaysis steps
+Anaysis steps - (I added this in the terminal)
 
 1. data cleaning
 2. initial data exploration
